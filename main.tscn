@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://drddcrgnlj8w6"]
+
+[ext_resource type="Script" uid="uid://d3y0skkn0e7al" path="res://main.gd" id="1_0d0ti"]
+
+[node name="Grid" type="Node2D"]
+position = Vector2(588, 328)
+script = ExtResource("1_0d0ti")

@@ -1,0 +1,1493 @@
+[
+  {
+	"name": "F001",
+	"type": "forest",
+	"edges": {
+	  "bottomLeft": {
+		"type": "forest"
+	  }
+	}
+  },
+  {
+	"name": "F002",
+	"type": "forest",
+	"edges": {
+	  "top": {
+		"type": "forest"
+	  },
+	  "topRight": {
+		"type": "forest"
+	  },
+	  "bottomRight": {
+		"type": "forest"
+	  },
+	  "bottom": {
+		"type": "forest"
+	  },
+	  "bottomLeft": {
+		"type": "forest"
+	  },
+	  "topLeft": {
+		"type": "forest"
+	  }
+	}
+  },
+  {
+	"name": "F003",
+	"type": "forest",
+	"edges": {
+	  "top": {
+		"type": "forest"
+	  },
+	  "topRight": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "topLeft": {
+		"type": "forest"
+	  }
+	}
+  },
+  {
+	"name": "F004",
+	"type": "forest",
+	"edges": {
+	  "bottomRight": {
+		"type": "forest"
+	  },
+	  "bottom": {
+		"type": "forest"
+	  },
+	  "bottomLeft": {
+		"type": "forest"
+	  }
+	}
+  },
+  {
+	"name": "F005",
+	"type": "forest",
+	"edges": {
+	  "topRight": {
+		"type": "forest"
+	  }
+	}
+  },
+  {
+	"name": "F006",
+	"type": "forest",
+	"edges": {
+	  "topRight": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomRight": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomLeft": {
+		"type": "forest"
+	  },
+	  "topLeft": {
+		"type": "forest"
+	  }
+	}
+  },
+  {
+	"name": "F007",
+	"type": "forest",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "topRight": {
+		"type": "forest"
+	  },
+	  "bottomRight": {
+		"type": "forest"
+	  },
+	  "bottom": {
+		"type": "forest"
+	  },
+	  "bottomLeft": {
+		"type": "forest"
+	  },
+	  "topLeft": {
+		"type": "forest"
+	  }
+	}
+  },
+  {
+	"name": "F008",
+	"type": "forest",
+	"edges": {
+	  "topRight": {
+		"type": "forest"
+	  },
+	  "bottomLeft": {
+		"type": "forest"
+	  }
+	}
+  },
+  {
+	"name": "F009",
+	"type": "forest",
+	"edges": {
+	  "topRight": {
+		"type": "forest"
+	  },
+	  "bottomRight": {
+		"type": "forest"
+	  }
+	}
+  },
+  {
+	"name": "F010",
+	"type": "forest",
+	"edges": {
+	  "top": {
+		"type": "forest"
+	  },
+	  "bottom": {
+		"type": "forest"
+	  },
+	  "topLeft": {
+		"type": "forest"
+	  }
+	}
+  },
+  {
+	"name": "LRA01",
+	"type": "lra",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomRight": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "LRA02",
+	"type": "lra",
+	"edges": {
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "LRA03",
+	"type": "lra",
+	"edges": {
+	  "topRight": {
+		"type": "forest"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "LRA04",
+	"type": "lra",
+	"edges": {
+	  "top": {
+		"type": "water"
+	  },
+	  "topRight": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "topLeft": {
+		"type": "water"
+	  }
+	}
+  },
+  {
+	"name": "LRA05",
+	"type": "lra",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "LRA06",
+	"type": "lra",
+	"edges": {
+	  "top": {
+		"type": "water"
+	  },
+	  "topRight": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "topLeft": {
+		"type": "water"
+	  }
+	}
+  },
+  {
+	"name": "LRA07",
+	"type": "lra",
+	"edges": {
+	  "top": {
+		"type": "water"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "topLeft": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "LRA08",
+	"type": "lra",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomRight": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "LRA09",
+	"type": "lra",
+	"edges": {
+	  "top": {
+		"type": "water"
+	  },
+	  "topRight": {
+		"type": "water"
+	  },
+	  "bottomRight": {
+		"type": "water"
+	  },
+	  "topLeft": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "LRA10",
+	"type": "lra",
+	"edges": {
+	  "top": {
+		"type": "water"
+	  },
+	  "bottom": {
+		"type": "water"
+	  },
+	  "topLeft": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "topRight": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "LRA11",
+	"type": "lra",
+	"rarity": "10",
+	"edges": {
+	  "top": {
+		"type": "water"
+	  },
+	  "topLeft": {
+		"type": "water"
+	  },
+	  "topRight": {
+		"type": "water"
+	  },
+	  "bottom": {
+		"type": "water"
+	  },
+	  "bottomRight": {
+		"type": "water"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "LRA12",
+	"type": "lra",
+	"rarity": "10",
+	"edges": {
+	  "topRight": {
+		"type": "forest"
+	  },
+	  "topLeft": {
+		"type": "forest"
+	  },
+	  "bottomRight": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomLeft": {
+		"type": "forest"
+	  },
+	  "bottom": {
+		"type": "forest"
+	  }
+	}
+  },
+  {
+	"name": "LRA13",
+	"type": "lra",
+	"rarity": "10",
+	"edges": {
+	  "bottomRight": {
+		"type": "water"
+	  },
+	  "topRight": {
+		"type": "water"
+	  },
+	  "bottomLeft": {
+		"type": "forest"
+	  },
+	  "topLeft": {
+		"type": "forest"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "LRA14",
+	"type": "lra",
+	"rarity": "10",
+	"edges": {
+	  "bottomRight": {
+		"type": "forest"
+	  },
+	  "bottom": {
+		"type": "forest"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "LRA15",
+	"type": "lra",
+	"rarity": "10",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomRight": {
+		"type": "forest"
+	  }
+	}
+  },
+  {
+	"name": "LRA16",
+	"type": "lra",
+	"rarity": "10",
+	"edges": {
+	  "bottom": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "LRA17",
+	"type": "lra",
+	"rarity": "10",
+	"edges": {
+	  "topRight": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "LRA18",
+	"type": "lra",
+	"rarity": "10",
+	"edges": {
+	  "topLeft": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "LRA19",
+	"type": "lra",
+	"rarity": "10",
+	"edges": {
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "LRA20",
+	"type": "lra",
+	"rarity": "10",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "LRA21",
+	"type": "lra",
+	"edges": {
+	  "topRight": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomRight": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "LRA22",
+	"type": "lra",
+	"edges": {
+	  "topRight": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "LRA23",
+	"type": "lra",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "River1",
+	"type": "river",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "topLeft": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "topRight": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "bottom": {
+		"type": "water"
+	  },
+	  "bottomLeft": {
+		"type": "water"
+	  }
+	}
+  },
+  {
+	"name": "River2",
+	"type": "river",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "topRight": {
+		"type": "grass",
+		"subType": "riverOut"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "River3",
+	"type": "river",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "topRight": {
+		"type": "grass",
+		"subType": "riverOut"
+	  }
+	}
+  },
+  {
+	"name": "River4",
+	"type": "river",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "riverOut"
+	  }
+	}
+  },
+  {
+	"name": "River5",
+	"type": "river",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "topRight": {
+		"type": "grass",
+		"subType": "riverOut"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "riverOut"
+	  }
+	}
+  },
+  {
+	"name": "River6",
+	"type": "river",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "bottomRight": {
+		"type": "grass",
+		"subType": "riverOut"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "riverOut"
+	  }
+	}
+  },
+  {
+	"name": "River7",
+	"type": "river",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "riverOut"
+	  }
+	}
+  },
+  {
+	"name": "River8",
+	"type": "river",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "bottom": {
+		"type": "water"
+	  },
+	  "bottomLeft": {
+		"type": "water"
+	  }
+	}
+  },
+  {
+	"name": "River9",
+	"type": "river",
+	"edges": {
+	  "topLeft": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "bottom": {
+		"type": "water"
+	  },
+	  "bottomLeft": {
+		"type": "water"
+	  }
+	}
+  },
+  {
+	"name": "River10",
+	"type": "river",
+	"edges": {
+	  "topRight": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "bottomLeft": {
+		"type": "water"
+	  }
+	}
+  },
+  {
+	"name": "River11",
+	"type": "river",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "bottom": {
+		"type": "water"
+	  },
+	  "bottomLeft": {
+		"type": "water"
+	  },
+	  "bottomRight": {
+		"type": "water"
+	  },
+	  "topRight": {
+		"type": "water"
+	  }
+	}
+  },
+  {
+	"name": "River12",
+	"type": "river",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "bottom": {
+		"type": "water"
+	  },
+	  "bottomLeft": {
+		"type": "water"
+	  },
+	  "bottomRight": {
+		"type": "water"
+	  }
+	}
+  },
+  {
+	"name": "River13",
+	"type": "river",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "riverOut"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "riverIn"
+	  }
+	}
+  },
+  {
+	"name": "River14",
+	"type": "river",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "bottomRight": {
+		"type": "grass",
+		"subType": "riverOut"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "riverIn"
+	  }
+	}
+  },
+  {
+	"name": "River15",
+	"type": "river",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "riverOut"
+	  }
+	}
+  },
+  {
+	"name": "River16",
+	"type": "river",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "riverOut"
+	  }
+	}
+  },
+  {
+	"name": "River18",
+	"type": "river",
+	"edges": {
+	  "topLeft": {
+		"type": "grass",
+		"subType": "riverOut"
+	  },
+	  "bottomRight": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "topRight": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "River19",
+	"type": "river",
+	"edges": {
+	  "topLeft": {
+		"type": "grass",
+		"subType": "riverOut"
+	  },
+	  "bottomRight": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "topRight": {
+		"type": "forest"
+	  },
+	  "bottomLeft": {
+		"type": "forest"
+	  },
+	  "top": {
+		"type": "forest"
+	  },
+	  "bottom": {
+		"type": "forest"
+	  }
+	}
+  },
+  {
+	"name": "River20",
+	"type": "river",
+	"edges": {
+	  "topLeft": {
+		"type": "grass",
+		"subType": "riverOut"
+	  },
+	  "topRight": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "top": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "River22",
+	"type": "river",
+	"edges": {
+	  "topLeft": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "topRight": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "top": {
+		"type": "grass",
+		"subType": "riverOut"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomRight": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "riverOut"
+	  }
+	}
+  },
+  {
+	"name": "River23",
+	"type": "river",
+	"edges": {
+	  "topLeft": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "topRight": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "top": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "riverIn"
+	  },
+	  "bottomRight": {
+		"type": "grass",
+		"subType": "riverOut"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "riverIn"
+	  }
+	}
+  },
+  {
+	"name": "R001",
+	"type": "road",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "R002",
+	"type": "coast",
+	"edges": {
+	  "top": {
+		"type": "grass"
+	  },
+	  "topRight": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "topLeft": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomLeft": {
+		"type": "grass"
+	  }
+	}
+  },
+  {
+	"name": "R003",
+	"type": "road",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "topRight": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "R004",
+	"type": "road",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "topRight": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "R005",
+	"type": "road",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "topRight": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "R006",
+	"type": "road",
+	"edges": {
+	  "topRight": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "R007",
+	"type": "coast",
+	"edges": {
+	  "topLeft": {
+		"type": "grass"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottom": {
+		"type": "grass"
+	  }
+	}
+  },
+  {
+	"name": "R008",
+	"type": "road",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "topRight": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomRight": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "R009",
+	"type": "road",
+	"edges": {
+	  "topLeft": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "topRight": {
+		"type": "grass",
+		"subType": "road"
+	  }
+	}
+  },
+  {
+	"name": "R010",
+	"type": "road",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "topRight": {
+		"type": "water"
+	  },
+	  "bottomRight": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomLeft": {
+		"type": "forest"
+	  }
+	}
+  },
+  {
+	"name": "Dragon1",
+	"type": "dragon",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "topRight": {
+		"type": "grass",
+		"match": "Dragon2"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomRight": {
+		"type": "grass",
+		"match": "Dragon6"
+	  }
+	}
+  },
+  {
+	"name": "Dragon2",
+	"type": "dragon",
+	"edges": {
+	  "topRight": {
+		"type": "grass",
+		"subType": "road",
+		"match": "Dragon3"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "road",
+		"match": "Dragon6"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"match": "Dragon1"
+	  },
+	  "bottomRight": {
+		"type": "grass",
+		"match": "Dragon7"
+	  }
+	}
+  },
+  {
+	"name": "Dragon3",
+	"type": "dragon",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "topRight": {
+		"type": "grass",
+		"match": "Dragon4"
+	  },
+	  "topLeft": {
+		"type": "grass",
+		"subType": "road",
+		"match": "Dragon2"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"match": "Dragon7"
+	  }
+	}
+  },
+  {
+	"name": "Dragon4",
+	"type": "dragon",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"match": "Dragon5"
+	  },
+	  "topRight": {
+		"type": "water"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"match": "Dragon3"
+	  },
+	  "bottom": {
+		"type": "water"
+	  },
+	  "bottomRight": {
+		"type": "water"
+	  }
+	}
+  },
+  {
+	"name": "Dragon5",
+	"type": "dragon",
+	"edges": {
+	  "topRight": {
+		"type": "water"
+	  },
+	  "top": {
+		"type": "water"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottom": {
+		"type": "grass",
+		"match": "Dragon4"
+	  },
+	  "bottomRight": {
+		"type": "water"
+	  }
+	}
+  },
+  {
+	"name": "Dragon6",
+	"type": "dragon",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"match": "Dragon1"
+	  },
+	  "topRight": {
+		"type": "grass",
+		"subType": "road",
+		"match": "Dragon2"
+	  },
+	  "bottomLeft": {
+		"type": "grass",
+		"subType": "road"
+	  },
+	  "bottomRight": {
+		"type": "grass",
+		"match": "Dragon7"
+	  }
+	}
+  },
+  {
+	"name": "Dragon7",
+	"type": "dragon",
+	"edges": {
+	  "top": {
+		"type": "grass",
+		"match": "Dragon6"
+	  },
+	  "topRight": {
+		"type": "grass",
+		"match": "Dragon2"
+	  },
+	  "bottomRight": {
+		"type": "grass",
+		"match": "Dragon3"
+	  }
+	}
+  },
+  {
+	"name": "Terrain1",
+	"type": "plains"
+  },
+  {
+	"name": "Terrain2",
+	"type": "plains"
+  },
+  {
+	"name": "Terrain3",
+	"type": "plains"
+  },
+  {
+	"name": "Terrain4",
+	"type": "plains"
+  },
+  {
+	"name": "Terrain5",
+	"type": "plains"
+  },
+  {
+	"name": "Terrain6",
+	"type": "plains",
+	"edges": {
+	  "topRight": {
+		"type": "water"
+	  }
+	}
+  },
+  {
+	"name": "Terrain7",
+	"type": "coast",
+	"edges": {
+	  "top": {
+		"type": "grass"
+	  },
+	  "topLeft": {
+		"type": "grass"
+	  },
+	  "bottomLeft": {
+		"type": "grass"
+	  },
+	  "bottom": {
+		"type": "grass"
+	  }
+	}
+  },
+  {
+	"name": "Terrain8",
+	"type": "plains"
+  },
+  {
+	"name": "Terrain9",
+	"type": "coast",
+	"edges": {
+	  "topLeft": {
+		"type": "grass"
+	  },
+	  "bottomLeft": {
+		"type": "grass"
+	  },
+	  "bottom": {
+		"type": "grass"
+	  }
+	}
+  },
+  {
+	"name": "Terrain10",
+	"type": "coast",
+	"edges": {
+	  "bottom": {
+		"type": "grass"
+	  },
+	  "bottomLeft": {
+		"type": "grass"
+	  },
+	  "topRight": {
+		"type": "grass"
+	  }
+	}
+  },
+  {
+	"name": "Terrain11",
+	"type": "coast",
+	"edges": {
+	  "bottom": {
+		"type": "grass"
+	  },
+	  "bottomLeft": {
+		"type": "grass"
+	  },
+	  "topLeft": {
+		"type": "grass"
+	  }
+	}
+  },
+  {
+	"name": "Terrain12",
+	"type": "plains",
+	"edges": {
+	  "bottomRight": {
+		"type": "water"
+	  }
+	}
+  },
+  {
+	"name": "Terrain13",
+	"type": "plains",
+	"edges": {
+	}
+  },
+  {
+	"name": "Terrain14",
+	"type": "ocean",
+	"edges": {
+	}
+  },
+  {
+	"name": "Terrain15",
+	"type": "plains",
+	"edges": {
+	  "bottomRight": {
+		"type": "water"
+	  },
+	  "bottom": {
+		"type": "forest"
+	  }
+	}
+  },
+  {
+	"name": "Terrain16",
+	"type": "plains",
+	"edges": {
+	  "bottomRight": {
+		"type": "water"
+	  },
+	  "bottom": {
+		"type": "forest"
+	  },
+	  "bottomLeft": {
+		"type": "forest"
+	  }
+	}
+  },
+  {
+	"name": "p1",
+	"type": "plains"
+  },
+  {
+	"name": "p2",
+	"type": "plains"
+  },
+  {
+	"name": "p3",
+	"type": "plains"
+  },
+  {
+	"name": "p4",
+	"type": "plains"
+  },
+  {
+	"name": "p5",
+	"type": "plains"
+  },
+  {
+	"name": "p6",
+	"type": "plains"
+  },
+  {
+	"name": "p7",
+	"type": "plains"
+  },
+  {
+	"name": "w1",
+	"type": "ocean",
+	"edges": {
+
+	  "bottomLeft": {
+		"type": "grass"
+	  }
+	}
+  }
+
+]

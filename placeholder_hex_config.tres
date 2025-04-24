@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="HexConfig" load_steps=3 format=3 uid="uid://crjgmt1erdvku"]
+
+[ext_resource type="Script" uid="uid://y75avykssj4s" path="res://hex_config.gd" id="1_pg1bk"]
+
+[sub_resource type="Resource" id="Resource_4g1u1"]
+metadata/__load_path__ = "res://assets/hexagons/LRA10 No code.png"
+
+[resource]
+script = ExtResource("1_pg1bk")
+name = "PLACEHOLDER"
+flipped_horizontal = false
+flipped_vertical = false
+rotated = 0
+texture = SubResource("Resource_4g1u1")

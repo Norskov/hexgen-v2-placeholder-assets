@@ -1,0 +1,117 @@
+{
+	"vertexTypes": [
+	  {
+		"name": "plains",
+		"defaultEdgeType": "grass",
+		"neighbours": {
+		  "plains": 10,
+		  "forest": 3,
+		  "coast": 3,
+		  "river": 1,
+		  "road": 2,
+		  "lra": 2
+		}
+	  },
+	  {
+		"name": "coast",
+		"defaultEdgeType": "water",
+		"neighbours": {
+		  "coast": 5,
+		  "plains": 3,
+		  "ocean": 4,
+		  "lra": 2,
+		  "river": 1,
+		  "road": 1
+		}
+	  },
+	  {
+		"name": "river",
+		"defaultEdgeType": "grass",
+		"neighbours": {
+		  "plains": 5,
+		  "lra": 3,
+		  "coast": 1,
+		  "road": 1
+		}
+	  },
+	  {
+		"name": "ocean",
+		"defaultEdgeType": "water",
+		"neighbours": {
+		  "ocean": 3,
+		  "coast": 1
+		}
+	  },
+	  {
+		"name": "dragon",
+		"defaultEdgeType": "grass",
+		"assignableAtRandom": false,
+		"neighbours": {
+		  "plains": 5,
+		  "lra": 5
+		}
+	  },
+	  {
+		"name": "forest",
+		"defaultEdgeType": "grass",
+		"neighbours": {
+		  "forest": 5,
+		  "plains": 3,
+		  "road": 2,
+		  "lra": 2
+		}
+	  },
+	  {
+		"name": "lra",
+		"defaultEdgeType": "grass",
+		"neighbours": {
+		  "lra": 5,
+		  "plains": 4,
+		  "road": 3,
+		  "forest": 1
+		}
+	  },
+	  {
+		"name": "road",
+		"defaultEdgeType": "grass",
+		"neighbours": {
+		  "road": 5,
+		  "plains": 4,
+		  "lra": 1,
+		  "forest": 1
+		}
+	  }
+	],
+  "edgeTypes":[
+	  {
+		"name": "named",
+		"description": "Hardcoded value where subtype is the name of a specific tile. Used for Dragon"
+	  },
+	  {
+		"name": "grass"
+	  },
+	  {
+		"name": "water"
+	  },
+	  {
+		"name": "forest"
+	  }
+	],
+	"edgeSubTypes": [
+	  {
+		"name": "road",
+		"matches": "same",
+		"priority": "0"
+	  },
+	  {
+		"name": "riverIn",
+		"matches": "riverOut",
+		"priority": "1"
+	  },
+	  {
+		"name": "riverOut",
+		"matches": "riverIn",
+		"priority": "2"
+	  }
+	]
+}

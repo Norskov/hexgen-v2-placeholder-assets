@@ -1,0 +1,43 @@
+[gd_scene load_steps=3 format=3 uid="uid://du33lrttjmqm4"]
+
+[ext_resource type="Script" uid="uid://xhwhou4io5al" path="res://hex_control.gd" id="1_h5wxq"]
+
+[sub_resource type="PlaceholderTexture2D" id="PlaceholderTexture2D_mkpoi"]
+
+[node name="hex_control" type="PanelContainer"]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -90.0
+offset_top = -105.0
+offset_right = 90.0
+offset_bottom = 105.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_h5wxq")
+metadata/_edit_use_anchors_ = true
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 2
+size_flags_horizontal = 0
+size_flags_vertical = 0
+
+[node name="Texture" type="TextureRect" parent="VBoxContainer"]
+custom_minimum_size = Vector2(180, 156)
+layout_mode = 2
+size_flags_horizontal = 0
+size_flags_vertical = 0
+texture = SubResource("PlaceholderTexture2D_mkpoi")
+expand_mode = 1
+
+[node name="NameLabel" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+text = "PLACEHOLDER"
+horizontal_alignment = 1
+
+[node name="TypeLabel" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+text = "PLACEHOLDER"
+horizontal_alignment = 1
